@@ -14,7 +14,7 @@ export const portfolioData = {
   },
 
   skills: {
-    languages: ["TypeScript", "Java", "Node.js", "SQL", "Python"],
+    languages: ["TypeScript", "Java", "Node.js", "SQL"],
     frameworks: ["Express.js", "FastAPI", "GraphQL", "Spring Boot"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Cassandra"],
     tools: [
