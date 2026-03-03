@@ -14,10 +14,15 @@ export const portfolioData = {
   },
 
   skills: {
-   languages: ["TypeScript", "Java", "Node.js", "SQL", "Python"],
+    languages: ["TypeScript", "Java", "Node.js", "SQL", "Python"],
     frameworks: ["Express.js", "FastAPI", "GraphQL", "Spring Boot"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Cassandra"],
-    cloud: [ "Google Cloud Platform (GCP)","AWS", "Cloud Functions", "Serverless Framework"],
+    tools: [
+      "Google Cloud Platform (GCP)",
+      "AWS",
+      "Cloud Functions",
+      "Serverless Framework",
+    ],
     architecture: [
       "Microservices",
       "RESTful APIs",
